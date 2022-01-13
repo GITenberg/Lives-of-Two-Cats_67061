@@ -1,0 +1,44 @@
+_repo: Lives-of-Two-Cats_67061
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Allen, C. E.
+    gutenberg_agent_id: '54095'
+    url: http://www.gutenberg.org/2009/agents/54095
+  translator:
+    agent_name: Richards, M. B.
+    gutenberg_agent_id: '54094'
+    url: http://www.gutenberg.org/2009/agents/54094
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Louis Marie Julien
+    - Viaud, Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Pierre_Loti
+    - https://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_issued: '2021-12-31'
+identifiers:
+  gutenberg: '67061'
+language: en
+pgterms:marc904: https://archive.org/details/livesoftwocats00loti/page/n7/mode/2up
+pgterms:marc905: 20210912180338loti
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Riverside Press,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lives of Two Cats
+url: http://www.gutenberg.org/ebooks/67061
