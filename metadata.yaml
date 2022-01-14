@@ -9,6 +9,9 @@ contributor:
     agent_name: Richards, M. B.
     gutenberg_agent_id: '54094'
     url: http://www.gutenberg.org/2009/agents/54094
+covers:
+- cover_type: archival
+  image_path: 67061-h/images/cover.jpg
 creator:
   author:
     agent_name: Loti, Pierre
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Pierre_Loti
     - https://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67061#Lives-of-Two-Cats
 gutenberg_issued: '2021-12-31'
 identifiers:
   gutenberg: '67061'
